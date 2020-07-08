@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BCKLG_MNGR.iml" filepath="$PROJECT_DIR$/BCKLG_MNGR.iml" group="BCKLG_MNGR" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="BCKLG_MNGR/app" />
+    </modules>
+  </component>
+</project>
